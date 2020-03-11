@@ -1,4 +1,4 @@
-# Open Graph Protocol
+# The Open Graph Protocol
 
 The Open [Graph protocol](https://ogp.me/) enables any web page to become a rich object in a social graph. For instance, this is used on Facebook to allow any web page to have the same functionality as any other object on Facebook.
 
