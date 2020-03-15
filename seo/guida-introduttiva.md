@@ -18,6 +18,6 @@ Prima di iniziare ad addentrarci nel mondo della SEO, il supporto della Google m
 Per maggiori informazioni: [Supporto Google: istruzioni per il webmaster](https://support.google.com/webmasters/answer/35769?hl=it)
 
 Il processo di ottimizzazione di un portale web si può dividere in tre fasi:
-1. Ottimizzazione tecnica: che comprende l'utilizzo dei meta tags `<title>` e `<meta description>`, l'utilizzo dello [schema.org](https://schema.org/) per dati strutturati e l'adozione di tecniche innovative come le [AMP](https://amp.dev/).
+1. Ottimizzazione tecnica: che comprende l'utilizzo dei meta tags `<title>` e `<meta description>`, ottimizzazione delle immagini, l'utilizzo dello [schema.org](https://schema.org/) per dati strutturati e l'adozione di tecniche innovative come le [AMP](https://amp.dev/).
 2. Creazione di contenuti: l'aspetto più importante del mondo SEO.
 3. Promozione dei contenuti: questa attività comprende il social sharing(scopriremo insieme il protocollo [Open Graph](https://ogp.me/)) ed altre tecniche come [google ADS](https://ads.google.com/intl/it_it/home/). Una cosa importante da dire è che l'attività di promozione è valida solamente se i contenuti sono di valore.
