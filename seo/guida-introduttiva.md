@@ -12,7 +12,7 @@ Prima di iniziare ad addentrarci nel mondo della SEO, il supporto della Google m
 
 * Progetta le tue pagine web per gli utenti, non per i motori di ricerca.
 * Non ingannare i tuoi utenti.
-* Evita trucchi per migliorare il posizionamento nei motori di ricerca. Una buona regola generale è chiederti se ti sentiresti a tuo agio nello spiegare il tuo comportamnto a un sito web concorrente o a un dipendente di Google. Un altro test utile consiste nel chiederti se quanto stai facendo sarà d'aiuto ai tuoi utenti e se agiresti nello stesso modo se i motori di ricerca non esistessero.
+* Evita trucchi per migliorare il posizionamento nei motori di ricerca. Una buona regola generale è chiederti se ti sentiresti a tuo agio nello spiegare il tuo comportamento a un sito web concorrente o a un dipendente di Google. Un altro test utile consiste nel chiederti se quanto stai facendo sarà d'aiuto ai tuoi utenti e se agiresti nello stesso modo se i motori di ricerca non esistessero.
 * Pensa a cosa rende il tuo sito web unico, prezioso o interessante. Fai in modo che il tuo sito web si distingua dagli altri nel tuo capo.
 
 Per maggiori informazioni: [Supporto Google: istruzioni per il webmaster](https://support.google.com/webmasters/answer/35769?hl=it)
