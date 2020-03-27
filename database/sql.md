@@ -21,7 +21,7 @@ VALUES(1,
 ```
 ---
 ### Updating and Deleting Data
-*In thi lesson, you will learn how to use the* ***UPDATE*** *and* ***DELETEE*** *statements to enable you to further manipulate your table data*
+*In this lesson, you will learn how to use the* ***UPDATE*** *and* ***DELETEE*** *statements to enable you to further manipulate your table data*
 
 #### Updating data
 ``` sql
