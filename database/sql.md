@@ -17,7 +17,7 @@ VALUES(1,
        'AMV Idealab',
         current_timestamp,
         current_timestamp
-        )
+        );
 ```
 ---
 ### Updating and Deleting Data
