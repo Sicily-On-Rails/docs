@@ -24,5 +24,11 @@ npm init
 npm i telegraf
 ```
 
+### The first bot
+``` javascript 
+const Telegraf = require('telegraf');
+
+const bot = 
+```
  
 
