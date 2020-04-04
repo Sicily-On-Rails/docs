@@ -271,13 +271,12 @@ end
     <%= f.password_field :password, class: 'form-control' %>
 
     <%= f.submit "Log in", class: "btn btn-primary" %>
-    <% end %>
+  <% end %>
 
     <p>New user? <%= link_to "Sign up now!", signup_path %><p> 
 ```
 
-Including the Sessions helper module into the Application con-
-troller.
+Including the Sessions helper module into the Application controller.
 `app/controllers/application_controller.rb`
 ```ruby
 
@@ -363,7 +362,7 @@ end
 
 `app/helpers/sessions_helper.rb`
 ```ruby
-
+module SessionsHelper
   # Logs in the given user.
   def log_in(user)
     session[:user_id] = user.id
