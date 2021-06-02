@@ -2,7 +2,7 @@
 
 ### To initialise new nodejs project:
 - npm init
-- nom init -y (for default settings)
+- npm init -y (for default settings)
 
 ### To install packages/libraries on npm
 
@@ -14,6 +14,12 @@
 ### Initialise new project nodejs
 ``` shell
 npm init 
+```
+...insert image...
+
+### Initialise new project nodejs (default settings)
+```shell
+npm init -y 
 ```
 ...insert image ...
 
@@ -52,7 +58,24 @@ bot.on("text",(ctx) =>{
 });
 
 
-bot.launch();\
+bot.launch();
 ```
  
+
+ ### Bot telegram
+ ``` javascript
+    const Telegraf = require('telgraf');
+
+    const bot = new Telegraf('Token');
+
+    //Start the bot
+    bot.lunch()
+
+ ``` 
+
+ ### Start and help commands
+
+ ```javascritp
+
+ ```
 
