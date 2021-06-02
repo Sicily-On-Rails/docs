@@ -12,13 +12,13 @@ Google utilizza i dati strutturati che trova sul web per comprendere il contenut
 - Puoi testare la conformità con le linee guida tecniche usando il [test dei risultati multimediali](https://search.google.com/test/rich-results?hl=it) e lo [strumento Controllo URL](https://support.google.com/webmasters/answer/9012289?hl=it) 
 
 #### Formato
-Affinchè le pagine del sito siano idonee per i risultati multimediali, devi eseguire il markup con uno dei tre formati supportati:
+Affinché le pagine del sito siano idonee per i risultati multimediali, devi eseguire il markup con uno dei tre formati supportati:
 
 - [JSON-LD(consigliato)](https://json-ld.org/)
 - Microdati
 - RDFa
 
-La maggior parte dei dati strutturati di ricerca utilizza il vocabolario [schema.org](https://schema.org/) che per essere utilizzato bisogna utilizzare una delle codifiche sopra elencate.
+La maggior parte dei dati strutturati utilizza il vocabolario [schema.org](https://schema.org/) che per essere utilizzato bisogna adoperare una delle codifiche sopra elencate.
 
 
 #### Accesso
