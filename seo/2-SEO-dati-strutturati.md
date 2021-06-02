@@ -1,6 +1,6 @@
 # Dati strutturati
 ### Cosa sono i dati strutturati
-La ricerca sul web(Esempio su Google) si impegna a comprendere i contenuti della pagina. La ricerca può essere aiutata fornendo informazioni esplicite sul significato della pagina includendo i dati strutturati nella pagina. 
+La ricerca sul web(per esempio su Google) si impegna a comprendere i contenuti della pagina. La ricerca può essere aiutata fornendo informazioni esplicite sul significato della pagina includendo i dati strutturati nella pagina. 
 
 I dati strutturati sono un formato standardizzato per fornire informazioni su una pagina e classificarne il contenuto; ad esempio, nella pagina di una ricetta sono gli ingredienti, il tempo di cottura, le calorie e cosi via.
 
@@ -22,7 +22,7 @@ La maggior parte dei dati strutturati di ricerca utilizza il vocabolario [schema
 
 
 #### Accesso
-Non bloccare le pagine dei dati struturati a Googlebot con file robot.txt, il tag noindex o altri metodi di controllo dell'accesso.
+Non bloccare le pagine dei dati strutturati a Googlebot con file robot.txt, il tag noindex o altri metodi di controllo dell'accesso.
 
 **Esempio di dati strutturati per attività locali**
 
